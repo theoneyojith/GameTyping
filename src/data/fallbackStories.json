@@ -1,0 +1,98 @@
+[
+  {
+    "id": "alice-rabbit-hole",
+    "title": "Down the Rabbit-Hole",
+    "author": "Lewis Carroll",
+    "source": "Alice's Adventures in Wonderland",
+    "category": "Classic Literature",
+    "text": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do. Once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, and what is the use of a book, thought Alice, without pictures or conversations?"
+  },
+  {
+    "id": "sherlock-holmes-scandal",
+    "title": "A Scandal in Bohemia",
+    "author": "Arthur Conan Doyle",
+    "source": "The Adventures of Sherlock Holmes",
+    "category": "Mystery",
+    "text": "To Sherlock Holmes she is always the woman. I have seldom heard him mention her under any other name. In his eyes she obscures and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind."
+  },
+  {
+    "id": "great-gatsby-opening",
+    "title": "Advice from Father",
+    "author": "F. Scott Fitzgerald",
+    "source": "The Great Gatsby",
+    "category": "Classic Literature",
+    "text": "In my younger and more vulnerable years my father gave me some advice that I have been turning over in my mind ever since. Whenever you feel like criticizing anyone, he told me, just remember that all the people in this world have not had the advantages that you have had."
+  },
+  {
+    "id": "frankenstein-creation",
+    "title": "The Spark of Being",
+    "author": "Mary Shelley",
+    "source": "Frankenstein",
+    "category": "Gothic / Sci-Fi",
+    "text": "It was on a dreary night of November that I beheld the accomplishment of my toils. With an anxiety that almost amounted to agony, I collected the instruments of life around me, that I might infuse a spark of being into the lifeless thing that lay at my feet."
+  },
+  {
+    "id": "pride-and-prejudice-truth",
+    "title": "A Truth Universally Acknowledged",
+    "author": "Jane Austen",
+    "source": "Pride and Prejudice",
+    "category": "Romance / Satire",
+    "text": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters."
+  },
+  {
+    "id": "moby-dick-ishmael",
+    "title": "Call Me Ishmael",
+    "author": "Herman Melville",
+    "source": "Moby-Dick",
+    "category": "Adventure",
+    "text": "Call me Ishmael. Some years ago - never mind how long precisely - having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation."
+  },
+  {
+    "id": "time-machine-dimension",
+    "title": "The Fourth Dimension",
+    "author": "H.G. Wells",
+    "source": "The Time Machine",
+    "category": "Sci-Fi",
+    "text": "The Time Traveller was expounding a recondite matter to us. His grey eyes shone and twinkled, and his usually pale face was flushed and animated. The fire burned brightly, and the soft radiance of the incandescent lights in the lilies of silver caught the bubbles that flashed and passed in our glasses."
+  },
+  {
+    "id": "dorian-gray-influence",
+    "title": "The Influence of Art",
+    "author": "Oscar Wilde",
+    "source": "The Picture of Dorian Gray",
+    "category": "Philosophical",
+    "text": "The artist is the creator of beautiful things. To reveal art and conceal the artist is art's aim. The critic is he who can translate into another manner or a new material his impression of beautiful things. There is no such thing as a moral or an immoral book. Books are well written, or badly written. That is all."
+  },
+  {
+    "id": "dracula-bistritz",
+    "title": "Journey into Transylvania",
+    "author": "Bram Stoker",
+    "source": "Dracula",
+    "category": "Gothic / Horror",
+    "text": "Left Munich at 8:35 P.M., on 1st May, arriving at Vienna early next morning; should have arrived at 6:46, but train was an hour late. Buda-Pesth seems a wonderful place, from the glimpse which I got of it from the train and the little I could see from the streets."
+  },
+  {
+    "id": "peter-pan-growing-up",
+    "title": "All Children Grow Up",
+    "author": "J.M. Barrie",
+    "source": "Peter and Wendy",
+    "category": "Fantasy",
+    "text": "All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother."
+  },
+  {
+    "id": "art-of-war-strategy",
+    "title": "Laying Plans",
+    "author": "Sun Tzu",
+    "source": "The Art of War",
+    "category": "Philosophy",
+    "text": "The art of war is of vital importance to the State. It is a matter of life and death, a road either to safety or to ruin. Hence it is a subject of inquiry which can on no account be neglected. All warfare is based on deception."
+  },
+  {
+    "id": "treasure-island-admiral-benbow",
+    "title": "The Old Sea-dog at the Admiral Benbow",
+    "author": "Robert Louis Stevenson",
+    "source": "Treasure Island",
+    "category": "Adventure",
+    "text": "Squire Trelawney, Dr. Livesey, and the rest of these gentlemen having asked me to write down the whole particulars about Treasure Island, from the beginning to the end, keeping nothing back but the bearings of the island, and that only because there is still treasure not yet lifted, I take up my pen."
+  }
+]
